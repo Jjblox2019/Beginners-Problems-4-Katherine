@@ -1,7 +1,7 @@
 1. 
 for attempt in range(3):
     password = input("Enter Password: ")
-    if password == "Kobus":
+    if password == "Jaco":
         print("Correct Password")
         break
 else:
